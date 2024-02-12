@@ -12,13 +12,13 @@ I've participated in projects from the beginning, where we designed the entire s
 
 | Language                | Framework/Library  | Style Library      | State Management  | Database       | HTTP
 | ---                     | ---                | ---                | ---               | ---            | ---
-Javascript / TypeScript   | React Native       | Styled Components  | Context API       | MySQL          | Axios
-📚 Kotlin                 | Expo               | Unistyles          | Zustand           | Mongo DB       | React Query
----                       | React JS           | Material UI        | Redux             | Firebase       | ---
----                       | Next JS            | Tailwind CSS       | ---               | MMKV           | ---
----                       | ---                | ---                | ---               | Async Storage  | ---
----                       | ---                | ---                | ---               | Realm DB       | ---
----                       | ---                | ---                | ---               | Watermelon DB  | ---
+Javascript / TypeScript   | React Native       | Styled Components  | Context API       | MMKV           | Axios
+📚 Kotlin                 | Expo               | Unistyles          | Zustand           | Async Storage  | React Query
+---                       | React JS           | Material UI        | Redux             | Realm DB       | ---
+---                       | Next JS            | Tailwind CSS       | ---               | Watermelon DB  | ---
+---                       | ---                | ---                | ---               | Firebase       | ---
+---                       | ---                | ---                | ---               | MySQL          | ---
+---                       | ---                | ---                | ---               | Mongo DB       | ---
 
 ## 📱 Projects
 |Name | Description | Link

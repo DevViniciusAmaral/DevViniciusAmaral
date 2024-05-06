@@ -14,11 +14,11 @@ I've participated in projects from the beginning, where we designed the entire s
 | ---                     | ---                | ---                | ---               | ---            | ---
 Javascript / TypeScript   | React Native       | Styled Components  | Context API       | MMKV           | Axios
 📚 Kotlin                 | Expo               | Unistyles          | Zustand           | Async Storage  | React Query
----                       | React JS           | Material UI        | Redux             | Realm DB       | ---
+Node JS                   | React JS           | Material UI        | Redux             | Realm DB       | ---
 ---                       | Next JS            | Tailwind CSS       | ---               | Watermelon DB  | ---
----                       | ---                | ---                | ---               | Firebase       | ---
----                       | ---                | ---                | ---               | MySQL          | ---
----                       | ---                | ---                | ---               | Mongo DB       | ---
+---                       | Express            | ---                | ---               | MySQL          | ---
+---                       | Fastify            | ---                | ---               | Mongo DB       | ---
+---                       | ---                | ---                | ---               | ---            | ---
 
 ## 📱 Projects
 |Name | Description | Link

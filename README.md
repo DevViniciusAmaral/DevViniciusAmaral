@@ -13,7 +13,7 @@ I've participated in projects from the beginning, where we designed the entire s
 | Language                | Framework/Library  | Style Library      | State Management  | Database       | HTTP
 | ---                     | ---                | ---                | ---               | ---            | ---
 Javascript / TypeScript   | React Native       | Styled Components  | Context API       | MMKV           | Axios
-📚 Kotlin                 | Expo               | Unistyles          | Zustand           | Async Storage  | React Query
+---                       | Expo               | Unistyles          | Zustand           | Async Storage  | React Query
 Node JS                   | React JS           | Material UI        | Redux             | Realm DB       | ---
 ---                       | Next JS            | Tailwind CSS       | ---               | Watermelon DB  | ---
 ---                       | Express            | ---                | ---               | MySQL          | ---
